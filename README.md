@@ -47,3 +47,9 @@ php-book-crawler/
 exports/books.csv
 *.log
 
+## 🔧 Technologies Used
+- PHP 8+
+- DOMDocument
+- Simple HTML DOM Parser (προαιρετικά)
+- Bootstrap (για το UI)
+
